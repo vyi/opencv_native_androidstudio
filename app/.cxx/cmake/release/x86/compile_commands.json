@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vivek/Documents/2020/Dec/nativeOpenCv/app/.cxx/cmake/release/x86",
+  "command": "/home/vivek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android26 --gcc-toolchain=/home/vivek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/vivek/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS -I/home/vivek/Documents/Source_pkg/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O2 -DNDEBUG  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /home/vivek/Documents/2020/Dec/nativeOpenCv/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/vivek/Documents/2020/Dec/nativeOpenCv/app/src/main/cpp/native-lib.cpp"
+}
+]
